@@ -9,4 +9,4 @@ Vanilla JS, Local Storage as DB.
 ## Features 
 Toast messages, add-complete-delete.
 
-![gif](https://im.ezgif.com/tmp/ezgif-1-d4f4adc947.gif)
+![gif](https://i.hizliresim.com/gzni5az.gif)
